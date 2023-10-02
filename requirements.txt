@@ -1,0 +1,5 @@
+streamlit==1.7.0
+numpy==1.25.0
+pandas==2.0.2
+firebase==4.0.1
+firebase-admin==6.1.0
