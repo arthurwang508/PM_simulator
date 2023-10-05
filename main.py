@@ -259,7 +259,7 @@ else:
                         elif story_points < 0:
                             story_points = 0
                         else:
-                            story_points = 0
+                            pass
                         assign = st.text_input("Assignee")
                         if st.button("Create"):
                             if team_tasks != None:
